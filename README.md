@@ -1,8 +1,0 @@
-# Project
-
-TBD
-
-
-## License
-
-MIT
